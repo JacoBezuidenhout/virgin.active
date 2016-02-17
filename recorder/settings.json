@@ -1,0 +1,8 @@
+{
+	"username":"admin",
+	"password":"52265226!!",
+	"cams":[
+		{"id":4,"ip":"192.168.1.211","name":"CAM_4","timeLimit":4},
+		{"id":5,"ip":"192.168.1.211","name":"CAM_5","timeLimit":4}
+	] 
+}
